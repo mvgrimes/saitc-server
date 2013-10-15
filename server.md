@@ -1,8 +1,8 @@
 ## Options
 
 1. Cloud Based or Hosted Solution
-2. Replace Local Server
-3. Upgrade Local Server
+2. Upgrade Local Server
+3. Replace Local Server
 
 
 #### 1. Cloud/Hosted
@@ -25,17 +25,6 @@ Network Attached Storage
 
 
 #### 1. Cloud/Hosted
-### Active Directory
-
-- No hosted or SaaS options
-- Dedicated Servers - $500+/mo
-- Windows 2008/2012 in Virtual Machine
-    - Windows Azure VM - $15-67/mo
-    - Windows Azure VPN - $35/mo
-    - Local VPN - $350-500
-
-
-#### 1. Cloud/Hosted
 ### Quickbooks
 
 Multiuser Quickbooks requires a Windows host (not NAS)
@@ -55,6 +44,26 @@ Multiuser Quickbooks requires a Windows host (not NAS)
 - Hosting data file on NAS is not officially supported
 - Hosted version available IconCMO
     - Priced based on number of members - $660/yr
+
+
+#### 1. Cloud/Hosted
+### Active Directory
+
+No hosted or SaaS option currently available
+
+- Dedicated server - $500+/mo
+- Virtual Machine running Windows 2008/12 Server
+    - Windows Azure VM - $15-67/mo
+    - Windows Azure Virtual Network - $35/mo
+    - VPN Router - $350-500
+
+
+#### 1. Cloud/Hosted
+### Active Directory (cont'd)
+
+- Complex setup
+- Will MPI support?
+- Network access requires Internet
 
 
 #### 1. Cloud/Hosted
