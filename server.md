@@ -32,7 +32,7 @@ Multiuser Quickbooks requires a Windows host (not NAS)
 - Serve from Peer Workstation
     - Always on, user always logged in
 - Quickbooks Online - $27-40/mo
-    - Ross: not feature complete and migration issues
+    - Not feature complete and migration issues
 - Host on Virtual Machine
 - Third Party Hosted Quickbooks - $37/user/mo
 
@@ -42,7 +42,9 @@ Multiuser Quickbooks requires a Windows host (not NAS)
 ### Revelations
 
 - Hosting data file on NAS is not officially supported
-- Hosted version available IconCMO
+- Hosted version available: IconCMO
+    - Adds numerous features: parishioners, accounting, payroll, etc
+    - Easily migrate data
     - Priced based on number of members - $660/yr
 
 
@@ -62,8 +64,9 @@ No hosted or SaaS option currently available
 ### Active Directory (cont'd)
 
 - Complex setup
-- Will MPI support?
-- Network access requires Internet
+- Will MPI provide support?
+- Accessing network assets (shares) requires Internet access
+- Uncertain lag/delay
 
 
 #### 1. Cloud/Hosted
